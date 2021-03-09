@@ -46,7 +46,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "~1.700.0"
+      "version": "https://github.com/Thaars/arduino-nRF5.git#gpio-low-accuracy-interrupt"
     },
     "framework-mbed": {
       "type": "framework",
